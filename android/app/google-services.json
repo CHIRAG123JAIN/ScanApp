@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "985767907829",
+    "firebase_url": "https://scan-app-94402.firebaseio.com",
+    "project_id": "scan-app-94402",
+    "storage_bucket": "scan-app-94402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985767907829:android:9a16b666fdee13ac3d90bc",
+        "android_client_info": {
+          "package_name": "com.example.scan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985767907829-vs0d8epn26480j0e7ufu2faj47jjn01r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPqkFjSA-sF7zD8vvwuy74KenItugNbYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985767907829-vs0d8epn26480j0e7ufu2faj47jjn01r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
