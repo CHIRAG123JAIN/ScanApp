@@ -1,6 +1,7 @@
 # scan_app
 
 A new Flutter project.
+
 scan_app\build\app\outputs\flutter-apk
 ## Getting Started
 
